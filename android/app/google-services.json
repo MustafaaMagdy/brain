@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "632104204508",
+    "project_id": "brain-68e43",
+    "storage_bucket": "brain-68e43.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:632104204508:android:1e5b073af7dc42c5a65c19",
+        "android_client_info": {
+          "package_name": "com.example.brain"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZtPZHjHC5Gfoy-4Sz9bGPDq5vTUM4IQE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
